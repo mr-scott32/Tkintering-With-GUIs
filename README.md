@@ -17,9 +17,13 @@ I have provided the files I worked in as I worked through tutorials from the [Py
 5) login pack layout.py [Using the Pack Layout Manager in Tkinter](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-pack-layout-manager/)
     - [Click Here to Learn About Message / Dialogue Boxes](https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/02_standard_dialog_boxes.html)
 
-6) It is recommended you also try grid and place layouts [Click Here for Grid Layout](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-grid-layout-manager/) and [Click here for Place Layout](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-place-layout-manager/)
+6) tkintering with grid layouts.py [Using the Grid Layout Manager in Tkinter](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-grid-layout-manager/)
 
-7) Check out mcTkinter.py for an example of this in action with Pandas and Matplotlib! [Click here to find out how to embed a plot from Matplotlib into Tkinter!](https://www.geeksforgeeks.org/how-to-embed-matplotlib-charts-in-tkinter-gui/)
+7) profile with grid.py [Using the Grid Layout Manager in Tkinter](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-grid-layout-manager/)
+
+8) It is recommended you also try  place layouts and [Click here for Place Layout](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-place-layout-manager/)
+
+9) Check out mcTkinter.py for an example of this in action with Pandas and Matplotlib! [Click here to find out how to embed a plot from Matplotlib into Tkinter!](https://www.geeksforgeeks.org/how-to-embed-matplotlib-charts-in-tkinter-gui/)
 
 ## Additional Reading
 [When to use Pack, Place and Grid Layouts in Tkinter](https://www.pythonguis.com/faq/pack-place-and-grid-in-tkinter/)

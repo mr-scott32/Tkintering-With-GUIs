@@ -33,6 +33,7 @@ def showBigMac():
                     color='blue',
                     alpha=0.3,
                     title='Cost of a Big Mac in AUD')
+    plt.tight_layout()
     plt.show()
 
 image = PhotoImage(file='images/big mac.png')  # Load an image from a file

@@ -9,7 +9,7 @@ root.geometry("800x800+750+150") #width x height + x + y - width and height set 
 
 
 #Now let's give it a label - there are other ways to position it, but for now we'll just have the text fit top and centre. 
-text = Label(root, text="Is mayonnaise an instrument?")
+text = Label(root, text='"Is mayonnaise an instrument?"')
 text.pack() #Pack fits the size of the window to the text, 'packing' the text into the parent window
 text2 = Label(root, text="- Patrick Star")
 text2.pack()

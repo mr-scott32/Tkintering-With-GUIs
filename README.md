@@ -21,9 +21,15 @@ I have provided the files I worked in as I worked through tutorials from the [Py
 
 7) profile with grid.py [Using the Grid Layout Manager in Tkinter](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-grid-layout-manager/)
 
-8) It is recommended you also try  place layouts and [Click here for Place Layout](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-place-layout-manager/)
+8) It is recommended you also try place layouts. [Click here for a Guide to Place Layouts](https://www.pythonguis.com/tutorials/create-ui-with-tkinter-place-layout-manager/)
 
 9) Check out mcTkinter.py for an example of this in action with Pandas and Matplotlib! [Click here to find out how to embed a plot from Matplotlib into Tkinter!](https://www.geeksforgeeks.org/how-to-embed-matplotlib-charts-in-tkinter-gui/)
 
 ## Additional Reading
 [When to use Pack, Place and Grid Layouts in Tkinter](https://www.pythonguis.com/faq/pack-place-and-grid-in-tkinter/)
+
+## Extension
+- Check out *questionable_tkinterface.py* for an example of how to create a dungeon-style game with different windows using Tkinter.  
+
+## Hyper Extension
+- Check out *return_of_the_tkinter.py*. This text-based adventure is similar in nature to one you may have seen in Year 8 or 9, but now has a basic GUI and uses classes to transition from scene to scene without opening new windows. See if you can apply the logic there to create your own changing interface. **Not for the faint of heart. Advanced users only**

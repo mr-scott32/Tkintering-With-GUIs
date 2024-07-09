@@ -29,7 +29,7 @@ I have provided the files I worked in as I worked through tutorials from the [Py
 [When to use Pack, Place and Grid Layouts in Tkinter](https://www.pythonguis.com/faq/pack-place-and-grid-in-tkinter/)
 
 ## Extension
-- Check out *questionable_tkinterface.py* for an example of how to create a dungeon-style game with different windows using Tkinter.  
+- Check out *questionable_tkinterface.py* for an example of how to create an escape room styled game with different windows using Tkinter. No knowledge of classes necessary, this is all completed using functions (suitable for Year 9-10 level).
 
 ## Hyper Extension
-- Check out *return_of_the_tkinter.py*. This text-based adventure is similar in nature to one you may have seen in Year 8 or 9, but now has a basic GUI and uses classes to transition from scene to scene without opening new windows. See if you can apply the logic there to create your own changing interface. **Not for the faint of heart. Advanced users only**
+- Check out *return_of_the_tkinter.py*. This text-based adventure is similar in nature to one you may have seen in Year 8 or 9, but now has a basic GUI and uses classes to transition from scene to scene without opening new windows. See if you can apply the logic there to create your own changing interface. **Not for the faint of heart. Advanced users only, as it uses concepts covered in Year 11 and up.**
